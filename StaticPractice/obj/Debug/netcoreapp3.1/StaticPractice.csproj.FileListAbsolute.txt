@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\bin\Debug\netcoreapp3.1\StaticPractice.exe
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\bin\Debug\netcoreapp3.1\StaticPractice.deps.json
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\bin\Debug\netcoreapp3.1\StaticPractice.runtimeconfig.json
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\bin\Debug\netcoreapp3.1\StaticPractice.runtimeconfig.dev.json
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\bin\Debug\netcoreapp3.1\StaticPractice.dll
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\bin\Debug\netcoreapp3.1\StaticPractice.pdb
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\obj\Debug\netcoreapp3.1\StaticPractice.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\obj\Debug\netcoreapp3.1\StaticPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\obj\Debug\netcoreapp3.1\StaticPractice.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\obj\Debug\netcoreapp3.1\StaticPractice.AssemblyInfo.cs
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\obj\Debug\netcoreapp3.1\StaticPractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\obj\Debug\netcoreapp3.1\StaticPractice.dll
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\obj\Debug\netcoreapp3.1\StaticPractice.pdb
+C:\Users\HP\Desktop\StaticPractice\StaticPractice\obj\Debug\netcoreapp3.1\StaticPractice.genruntimeconfig.cache
